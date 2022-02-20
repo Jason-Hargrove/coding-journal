@@ -7,3 +7,7 @@
 ### Feburary 18, 2022
 
 **Today's Progress:** Worked a bit with conditional formatting in JSX. Having problems with someting particular - a horozintal line being displayed in the wrong palce, at the wrong time. Desicded to turn it into an IIFE - that's not working either - may change directions again.
+
+### Feburary 19, 2022
+
+**Today's Progress:** Looked at Azure data migration options. Went over Azure services and concepts. Looked into Azure services for IoT and
