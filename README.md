@@ -1,5 +1,9 @@
 # Coding Journal
 
+### Feburary 23, 2022
+
+**Today's Progress:** Becoming more familiar with the Data Explorer in MongoDB.
+
 ### Feburary 22, 2022
 
 **Today's Progress:** Corrected the styling and logic on a React Bootstrap tab component.
