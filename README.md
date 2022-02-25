@@ -1,5 +1,9 @@
 # Coding Journal
 
+### Feburary 24, 2022
+
+**Today's Progress:** Getting started with Terraform. Used .find(), .count(), and .pretty() to query collections in MongoDB.
+
 ### Feburary 23, 2022
 
 **Today's Progress:** Becoming more familiar with the Data Explorer in MongoDB.
@@ -27,9 +31,3 @@
 ### Feburary 17, 2022
 
 **Today's Progress:** Completed 1st chapter of M001 MongoDB Basics at MongoDB University. Started a journal. Looked into Terraform.
-
-
-
-
-
-
