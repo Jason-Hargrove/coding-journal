@@ -1,5 +1,9 @@
 # Coding Journal
 
+### Feburary 26, 2022
+
+**Today's Progress:** Inserted a new docuent using MongoDB Data Explorer.
+
 ### Feburary 25, 2022
 
 **Today's Progress:** Step through Redux flow and Redux DevTools.
