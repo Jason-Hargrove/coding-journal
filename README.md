@@ -1,5 +1,9 @@
 # Coding Journal
 
+### Feburary 25, 2022
+
+**Today's Progress:** Step through Redux flow and Redux DevTools.
+
 ### Feburary 24, 2022
 
 **Today's Progress:** Getting started with Terraform. Used .find(), .count(), and .pretty() to query collections in MongoDB.
