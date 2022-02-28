@@ -1,5 +1,9 @@
 # Coding Journal
 
+### Feburary 27, 2022
+
+**Today's Progress:** Kali Linux. Troubleshooting VM.
+
 ### Feburary 26, 2022
 
 **Today's Progress:** Inserted a new docuent using MongoDB Data Explorer.
